@@ -22,7 +22,7 @@ This is the backend API for PlatePal, a delivery and takeaway management system 
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/OfekAzumi/platepal_backend.git
    cd backend
 
 2. **Create a virtual environment:**
