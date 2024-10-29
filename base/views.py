@@ -14,7 +14,7 @@ from .models import Dish,Worker,Customer,Category,Order,OrderDetails
 import paypalrestsdk
 
 # ****************************
-# ******* Serizlizers ********
+# ******* Serializers ********
 # ****************************
 
 # paypal serializer
